@@ -1,0 +1,14 @@
+.home1
+{
+    background-color: rgb(157, 188, 183);
+    padding: 20px;
+    display:flex;
+    justify-content:space-between;
+}
+.place1
+{
+background-image: "http://wallpapercave.com/wp/FQBnqzH.jpg";
+background-position:fixed;
+background-size: 100% 100%;
+background-color:darkslategrey ;
+}
